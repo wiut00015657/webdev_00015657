@@ -17,55 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExpenseManagerAPI
 build_property.RootNamespace = ExpenseManagerAPI
-build_property.ProjectDir = C:\Users\Bobur\OneDrive - Westminster International University in Tashkent (1)\BIS Level 5\WebDev\webdev_00015657\ExpenseManagerAPI\ExpenseManagerAPI\
+build_property.ProjectDir = C:\Users\Bobur\Desktop\WebDev CW\Garri\webdev_00015657\ExpenseManagerAPI\ExpenseManagerAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bobur\OneDrive - Westminster International University in Tashkent (1)\BIS Level 5\WebDev\webdev_00015657\ExpenseManagerAPI\ExpenseManagerAPI
+build_property.MSBuildProjectDirectory = C:\Users\Bobur\Desktop\WebDev CW\Garri\webdev_00015657\ExpenseManagerAPI\ExpenseManagerAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Create.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Delete.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Details.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Edit.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Index.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Create.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Delete.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Details.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Edit.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Index.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Expenses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bobur/OneDrive - Westminster International University in Tashkent (1)/BIS Level 5/WebDev/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Bobur/Desktop/WebDev CW/Garri/webdev_00015657/ExpenseManagerAPI/ExpenseManagerAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

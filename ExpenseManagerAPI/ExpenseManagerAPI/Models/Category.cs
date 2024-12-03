@@ -9,6 +9,6 @@ namespace ExpenseManageAPI.Models
         public int CategoryId { get; set; }
         [Column(TypeName = "nvarchar(128)")]
         public string CategoryName { get; set; }
-        public ICollection<Expense> Expenses { get; set; }
+        public ICollection<Expense> Expenses { get; set; } = new List<Expense>();
     }
 }

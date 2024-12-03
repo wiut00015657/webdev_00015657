@@ -8204,11 +8204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bobur\\OneDrive - Westminster International University in Tashkent (1)\\BIS Level 5\\WebDev\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
       "projectName": "ExpenseManagerAPI",
-      "projectPath": "C:\\Users\\Bobur\\OneDrive - Westminster International University in Tashkent (1)\\BIS Level 5\\WebDev\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
+      "projectPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
       "packagesPath": "C:\\Users\\Bobur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bobur\\OneDrive - Westminster International University in Tashkent (1)\\BIS Level 5\\WebDev\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bobur\\AppData\\Roaming\\NuGet\\NuGet.Config",

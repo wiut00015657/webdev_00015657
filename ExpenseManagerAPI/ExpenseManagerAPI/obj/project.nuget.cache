@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsNWh53JOjs=",
+  "dgSpecHash": "bZqZXlGkRt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bobur\\OneDrive - Westminster International University in Tashkent (1)\\BIS Level 5\\WebDev\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
+  "projectFilePath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\webdev_00015657\\ExpenseManagerAPI\\ExpenseManagerAPI\\ExpenseManagerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bobur\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Bobur\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
